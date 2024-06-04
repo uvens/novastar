@@ -19,7 +19,7 @@ class X12:
         options.add_argument('--no-sandbox')
         options.add_argument('--disable-gpu')
         options.add_argument('--disable-dev-shm-usage')
-        options.add_argument('--headless')
+        # options.add_argument('--headless')
         options.add_argument('--start-maximized')
         logger.info('открытие драйвера')
         driver: WebDriver = webdriver.Chrome(options=options)
@@ -137,4 +137,4 @@ class X12:
 
 
 x = X12('denisov.m@nova-star.org', 'qwerty7787')
-x.main('20.03.2024', '40HC', 'FCIU7601467')
+x.main('20.03.2024', '40HC', 'FCI7601467')

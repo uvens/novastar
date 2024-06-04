@@ -207,3 +207,31 @@
 2024-03-10 18:50:18,263 [111635:Bill_of_loading:23:connect_google:INFO] Подключение к странице
 2024-03-10 19:14:41,367 [120038:Bill_of_loading:21:connect_google:INFO] открытие драйвера
 2024-03-10 19:14:42,066 [120038:Bill_of_loading:23:connect_google:INFO] Подключение к странице
+2024-03-11 09:19:39,551 [16424:Bill_of_loading:24:connect_google:INFO] открытие драйвера
+2024-03-11 09:19:40,668 [16424:Bill_of_loading:26:connect_google:INFO] Подключение к странице
+2024-03-11 09:19:42,373 [16424:Bill_of_loading:34:login_in:INFO] Получение элемента
+2024-03-11 09:19:42,450 [16424:Bill_of_loading:41:login_in:INFO] Ввод логина и пароля
+2024-03-11 09:19:52,984 [16617:Bill_of_loading:24:connect_google:INFO] открытие драйвера
+2024-03-11 09:19:53,674 [16617:Bill_of_loading:26:connect_google:INFO] Подключение к странице
+2024-03-11 09:19:55,214 [16617:Bill_of_loading:34:login_in:INFO] Получение элемента
+2024-03-11 09:19:55,288 [16617:Bill_of_loading:41:login_in:INFO] Ввод логина и пароля
+2024-03-11 09:19:58,758 [16617:Bill_of_loading:52:accommodation:INFO] Выбор элемента "Размещения"
+2024-03-11 09:20:00,853 [16617:Bill_of_loading:60:create_placement:INFO] Выбор элемента "Принять контейнер на терминал"
+2024-03-11 09:20:02,959 [16617:Bill_of_loading:66:get_all_type_containers:INFO] Получение всех опций "Тип контейнера"
+2024-03-11 09:20:03,095 [16617:Bill_of_loading:71:get_all_type_containers:INFO] Выбор элемента "Тип контейнера" и ввод значения: 40HC
+2024-03-11 09:20:04,178 [16617:Bill_of_loading:79:filling_out_the_form:INFO] Выбор элемента "Дата" и ввод даты
+2024-03-11 09:20:04,310 [16617:Bill_of_loading:84:filling_out_the_form:INFO] Выбор элемента "Номер контейнера" и ввод номера
+2024-03-11 09:20:04,439 [16617:Bill_of_loading:90:filling_out_the_form:INFO] Выбор элемента "Сохранить"
+2024-03-11 09:20:54,890 [17718:Bill_of_loading:24:connect_google:INFO] открытие драйвера
+2024-03-11 09:20:55,425 [17718:Bill_of_loading:26:connect_google:INFO] Подключение к странице
+2024-03-11 09:20:56,933 [17718:Bill_of_loading:34:login_in:INFO] Получение элемента
+2024-03-11 09:20:57,003 [17718:Bill_of_loading:41:login_in:INFO] Ввод логина и пароля
+2024-03-11 09:21:00,291 [17718:Bill_of_loading:52:accommodation:INFO] Выбор элемента "Размещения"
+2024-03-11 09:21:02,393 [17718:Bill_of_loading:60:create_placement:INFO] Выбор элемента "Принять контейнер на терминал"
+2024-03-11 09:21:04,489 [17718:Bill_of_loading:66:get_all_type_containers:INFO] Получение всех опций "Тип контейнера"
+2024-03-11 09:21:04,620 [17718:Bill_of_loading:71:get_all_type_containers:INFO] Выбор элемента "Тип контейнера" и ввод значения: 40HC
+2024-03-11 09:21:05,696 [17718:Bill_of_loading:79:filling_out_the_form:INFO] Выбор элемента "Дата" и ввод даты
+2024-03-11 09:21:05,819 [17718:Bill_of_loading:84:filling_out_the_form:INFO] Выбор элемента "Номер контейнера" и ввод номера
+2024-03-11 09:21:05,941 [17718:Bill_of_loading:90:filling_out_the_form:INFO] Выбор элемента "Сохранить"
+2024-03-11 09:21:27,085 [18112:Bill_of_loading:21:connect_google:INFO] открытие драйвера
+2024-03-11 09:21:27,624 [18112:Bill_of_loading:23:connect_google:INFO] Подключение к странице

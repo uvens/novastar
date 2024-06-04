@@ -1,5 +1,3 @@
-import time
-
 from __init__ import *
 
 
@@ -55,7 +53,6 @@ class Ural:
         avtotyagach_element.click()
 
         time.sleep(3)
-
 
     def accommodation(self):
         add_request_button = WebDriverWait(self.driver, 10).until(
